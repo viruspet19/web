@@ -1,0 +1,149 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+
+
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1{
+
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.75rem;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+h3{
+  font-family: 'Fascinate', serif;
+  color: #11999E;
+
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+a{
+  font-family: 'Montserrat', sans-serif;
+  color: #fde8cd;
+  font-weight: bold;
+}
+
+.middle-container{
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
+
+.skill-row{
+  margin-top: 75px;
+  margin-bottom: 75px;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.fighting{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.fixit{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+hr{
+ border-style: dotted;
+ border-width: 5px 0 0 0;
+ width: 5%;
+ border-color: #00917c;
+
+}
+.profile{
+  margin: 50px auto 50px auto;
+  line-height: 1.5;
+}
+.profileme{
+  width: 20%;
+}
+
+.wordhello{
+  margin: 0 auto 0 auto;
+}
+
+
+.contact_btn {
+   background: #B4C1D1;
+   background-image: -webkit-linear-gradient(top, #B4C1D1, #B5C4DD);
+   background-image: -moz-linear-gradient(top, #B4C1D1, #B5C4DD);
+   background-image: -ms-linear-gradient(top, #B4C1D1, #B5C4DD);
+   background-image: -o-linear-gradient(top, #B4C1D1, #B5C4DD);
+   background-image: -webkit-gradient(to bottom, #B4C1D1, #B5C4DD);
+   -webkit-border-radius: 29px;
+   -moz-border-radius: 29px;
+   border-radius: 29px;
+   color: #FFFFFF;
+   font-family: Garamond;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 15px;
+   -webkit-box-shadow: 0 0 9px 0 #000000;
+   -moz-box-shadow: 0 0 9px 0 #000000;
+   box-shadow: 0 0 9px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.textgetintouch{
+   line-height: 2;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px;
+  color: #EAF6F6;
+}
+
+.footer-link{
+  margin: 20px;
+  font-size: 1.5rem;
+}
+
+.copyright{
+  margin: 40px;
+}
+
+.underskillhr{
+   margin-top: 200px;
+}
